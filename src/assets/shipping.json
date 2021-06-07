@@ -1,0 +1,14 @@
+[
+  {
+    "type": "SEDEX 10",
+    "price": 25.99
+  },
+  {
+    "type": "SEDEX",
+    "price": 9.99
+  },
+  {
+    "type": "PAC",
+    "price": 2.99
+  }
+]
